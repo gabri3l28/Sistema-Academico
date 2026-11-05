@@ -1,0 +1,3 @@
+MÓDULO DE MATRÍCULA
+
+Encargado de procesar la inscripción de estudiantes y validar sus asignaturas seleccionadas.

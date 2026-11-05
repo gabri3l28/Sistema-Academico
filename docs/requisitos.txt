@@ -1,0 +1,1 @@
+RF-01: El sistema debe permitir el registro formal de la matrícula de un estudiante.
