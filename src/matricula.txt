@@ -2,4 +2,5 @@ MÓDULO DE MATRÍCULA
 
 Encargado de procesar la inscripción de estudiantes y validar sus asignaturas seleccionadas.
 
-Evaluar que el alumno cumpla con la aprobación previa de las materias obligatorias antes de confirmar su inscripción.
+Validacion: Evaluar que el alumno cumpla con la aprobación previa de las materias obligatorias antes de confirmar su inscripción.
+Correccion: Validar la unicidad del registro para evitar inscripciones duplicadas del estudiante en la misma asignatura para el periodo actual.
