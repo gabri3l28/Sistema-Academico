@@ -1,1 +1,3 @@
 RF-01: El sistema debe permitir el registro formal de la matrícula de un estudiante.
+
+RF-02: El sistema deberá comprobar el historial académico del alumno para verificar el cumplimiento de los prerrequisitos correspondientes.
